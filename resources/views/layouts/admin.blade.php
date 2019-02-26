@@ -197,6 +197,22 @@
                         <!-- /.nav-second-level -->
                     </li>
 
+                    <li>
+                        <a href="#"><i class="fa fa-cog fa-fw"></i>Settings<span class="fa arrow"></span></a>
+                        <ul class="nav nav-second-level">
+                            <li>
+                                <a href="/media">Profile</a>
+                            </li>
+
+                            <li>
+                                <a href="">Settings</a>
+                            </li>
+
+                        </ul>
+                        <!-- /.nav-second-level -->
+                    </li>
+
+
                 </ul>
 
 
