@@ -18,7 +18,7 @@ Route::get('/', function () {
 Route::auth();
 
 Route::get('/home', 'HomeController@index');
-
+Route::get('/newpath', 'HomeController@index');
 Route::resource('admin/users', 'AdminUsersController');
 
 Route::get('/admin', function() {
